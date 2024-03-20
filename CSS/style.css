@@ -1,0 +1,49 @@
+:root {
+    --corDeFundo: #7469B6;
+    --corDeFundoDois:#AD88C6;
+    --corDeFundoTres:#E1AFD1;
+    --corDeTexto:#FFE6E6;
+    --transparencia: transparent;
+
+}
+
+
+.bodys {
+
+    background-color: var(--corDeFundo);
+    width: 100%;
+    height: 70%;
+
+}
+
+/*Header*/
+.container-fluid{
+    color: var(--corDeTexto);
+
+}
+
+/*DropDown*/
+
+.dropdown {
+    background-color: var(--transparencia);
+    color: var(--corDeTexto)
+}
+
+.btn dropdown-toggle{
+    background-attachment: var(--transparencia);
+    color: var(--corDeTexto);
+}
+
+/*Imagens*/
+
+.rounded{
+   height: 25%;
+   width: 25%;
+    
+}
+
+.rounded.float-start{
+    height: 5%;
+    width: 5%;
+}
+

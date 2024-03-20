@@ -1,0 +1,18 @@
+Este projeto tem como destino um site de cursos de programação.
+
+O mesmo utiliza-se das seguintes linguagens de programação:
+
+* Html
+* Css
+* JavaScript
+
+FrameWork:
+
+* Boostrap
+
+Sobre o decorrer do processo:
+
+Sobre a utilização do boostrap é uma ferramenta que não possuo muito dominio porem tenti aplca-la ao maximo
+porem nao obtive muito sucesso entao o desing ficou continuio porem navegavel atraves do menu drodown.
+
+O mesmo se encontra responsivo como prode ser ver executando a aplicação.
